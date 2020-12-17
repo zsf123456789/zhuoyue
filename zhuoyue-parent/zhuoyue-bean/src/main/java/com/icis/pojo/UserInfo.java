@@ -3,18 +3,14 @@ package com.icis.pojo;
 import lombok.Data;
 
 import javax.persistence.Column;
-import javax.persistence.GeneratedValue;
-import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import java.io.Serializable;
 
-//用户实体类 封装用户数据
+//用户实体类
 @Data
 public class UserInfo implements Serializable {
-    //@Id用于标注该属性是主键字段
     @Id
     @Column
-    @GeneratedValue(strategy = GenerationType.IDENTITY)//添加数据完成后
     private String id;
     @Column
     private String loginName;

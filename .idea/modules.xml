@@ -4,6 +4,16 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/springboot-mapper/springboot-mapper.iml" filepath="$PROJECT_DIR$/springboot-mapper/springboot-mapper.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/zhuoyue.iml" filepath="$PROJECT_DIR$/.idea/zhuoyue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhuoyue-parent/zhuoyue-bean/zhuoyue-bean.iml" filepath="$PROJECT_DIR$/zhuoyue-parent/zhuoyue-bean/zhuoyue-bean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhuoyue-parent/zhuoyue-common-util/zhuoyue-common-util.iml" filepath="$PROJECT_DIR$/zhuoyue-parent/zhuoyue-common-util/zhuoyue-common-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhuoyue-parent/zhuoyue-interface/zhuoyue-interface.iml" filepath="$PROJECT_DIR$/zhuoyue-parent/zhuoyue-interface/zhuoyue-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhuoyue-parent/zhuoyue-order-service/zhuoyue-order-service.iml" filepath="$PROJECT_DIR$/zhuoyue-parent/zhuoyue-order-service/zhuoyue-order-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhuoyue-parent/zhuoyue-order-web/zhuoyue-order-web.iml" filepath="$PROJECT_DIR$/zhuoyue-parent/zhuoyue-order-web/zhuoyue-order-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhuoyue-parent/zhuoyue-parent.iml" filepath="$PROJECT_DIR$/zhuoyue-parent/zhuoyue-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhuoyue-parent/zhuoyue-service-util/zhuoyue-service-util.iml" filepath="$PROJECT_DIR$/zhuoyue-parent/zhuoyue-service-util/zhuoyue-service-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhuoyue-parent/zhuoyue-userservice-consumer/zhuoyue-userservice-consumer.iml" filepath="$PROJECT_DIR$/zhuoyue-parent/zhuoyue-userservice-consumer/zhuoyue-userservice-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhuoyue-parent/zhuoyue-userservice-provider/zhuoyue-userservice-provider.iml" filepath="$PROJECT_DIR$/zhuoyue-parent/zhuoyue-userservice-provider/zhuoyue-userservice-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhuoyue-parent/zhuoyue-web-util/zhuoyue-web-util.iml" filepath="$PROJECT_DIR$/zhuoyue-parent/zhuoyue-web-util/zhuoyue-web-util.iml" />
     </modules>
   </component>
 </project>
